@@ -1,7 +1,7 @@
 @echo off
 
 mode con cols=100 lines=40
-color 0a
+color 0A
 title ipconfig
 
 ipconfig
