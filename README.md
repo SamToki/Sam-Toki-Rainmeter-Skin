@@ -79,4 +79,4 @@ Rainmeter will automatically install the skins and layouts.<br>
 Rainmeter 将会自动安装皮肤与布局。
 
 Head for System tray >> Rainmeter >> Layouts to switch between layouts.<br>
-前往 系统托盘 → Rainmeter → Layouts 来切换布局。
+前往 系统托盘 >> Rainmeter >> Layouts 来切换布局。
