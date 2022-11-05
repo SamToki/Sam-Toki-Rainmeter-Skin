@@ -81,7 +81,7 @@ Rainmeter 将会自动安装皮肤与布局。
 Head for System tray >> Rainmeter >> Layouts to switch between layouts.<br>
 前往 系统托盘 >> Rainmeter >> Layouts 来切换布局。
 
-# Legal 版权信息
+# Legal 版权说明
 
 You may freely distribute this piece of work. A reference is required when reposting.<br>
 For free personal use only. No commercial use.<br>
