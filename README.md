@@ -73,9 +73,9 @@ See the picture below for other precautions.<br>
 Download and install [Rainmeter](https://www.rainmeter.net/) from its official website.<br>
 从官网下载并安装 [Rainmeter](https://www.rainmeter.net/)。
 
-Download and open "RELEASE/[Sam Toki's Rainmeter Skin_v0.98.rmskin](https://github.com/SamToki/Rainmeter---Sam-Toki-Rainmeter-Skin/raw/master/RELEASE/Sam%20Toki's%20Rainmeter%20Skin_v0.98.rmskin)".<br>
+Download and open "RELEASE/[Sam Toki's Rainmeter Skin_v1.00.rmskin](https://github.com/SamToki/Rainmeter---Sam-Toki-Rainmeter-Skin/raw/master/RELEASE/Sam%20Toki's%20Rainmeter%20Skin_v1.00.rmskin)".<br>
 Rainmeter will automatically install the skins and layouts.<br>
-下载并打开 "RELEASE/[Sam Toki's Rainmeter Skin_v0.98.rmskin](https://github.com/SamToki/Rainmeter---Sam-Toki-Rainmeter-Skin/raw/master/RELEASE/Sam%20Toki's%20Rainmeter%20Skin_v0.98.rmskin)"。<br>
+下载并打开 "RELEASE/[Sam Toki's Rainmeter Skin_v1.00.rmskin](https://github.com/SamToki/Rainmeter---Sam-Toki-Rainmeter-Skin/raw/master/RELEASE/Sam%20Toki's%20Rainmeter%20Skin_v1.00.rmskin)"。<br>
 Rainmeter 将会自动安装皮肤与布局。
 
 Head for System tray >> Rainmeter >> Layouts to switch between layouts.<br>
