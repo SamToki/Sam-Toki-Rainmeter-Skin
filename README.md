@@ -1,9 +1,7 @@
 # 简介 Description
 
-这是一个原创极简风格「雨滴桌面」皮肤包。<br>
-含桌面部件与悬浮部件，内置12种布局。还有支持30小时制的数字时钟。<br>
-This is an original Rainmeter skin pack.<br>
-It is minimalistic styled with both desktop widgets and floating widgets, and 12 built-in layouts. Digital clocks support 30-hour format.
+这是一个原创极简风格「雨滴桌面」皮肤包。含桌面部件与悬浮部件，内置12种布局。还有支持30小时制的数字时钟。<br>
+This is an original Rainmeter skin pack. It is minimalistic styled with both desktop widgets and floating widgets, and 12 built-in layouts. Digital clocks support 30-hour format.
 
 # 预览 Preview
 
@@ -23,10 +21,8 @@ You can freely edit the title text in "DesktopStaticPowerControl" for personaliz
 
 ## 悬浮部件 Floating Widgets
 
-悬浮部件含指针式与数字式两种风格。<br>
-具备时钟查看、硬件监控、网速监控、音频可视化等功能。<br>
-Floating widgets available in both analog style and digital style.<br>
-Capable for clock monitoring, hardware monitoring, network traffic monitoring, audio visualization and more.
+悬浮部件含指针式与数字式两种风格。具备时钟查看、硬件监控、网速监控、音频可视化等功能。<br>
+Floating widgets available in both analog style and digital style. Capable for clock monitoring, hardware monitoring, network traffic monitoring, audio visualization and more.
 
 ## 内置布局 Built-in Layouts
 
@@ -55,10 +51,8 @@ Indicator lights in different colors, either blinking or static, help you quickl
 
 # 注意事项 Precautions
 
-内置布局适用于1920x1080分辨率与100%的DPI缩放。<br>
-部分皮肤需要插件才能正常显示。<br>
-Layouts are designed to fit 1920x1080 resolution with 100% DPI scale.<br>
-Some skins require plugins to function.
+内置布局适用于1920x1080分辨率与100%的DPI缩放。部分皮肤需要插件才能正常显示。<br>
+Layouts are designed to fit 1920x1080 resolution with 100% DPI scale. Some skins require plugins to function.
 
 其他注意事项请看下图。<br>
 See the picture below for other precautions.
@@ -70,22 +64,15 @@ See the picture below for other precautions.
 从官网下载并安装 [Rainmeter](https://www.rainmeter.net/)。<br>
 Download and install [Rainmeter](https://www.rainmeter.net/) from its official website.
 
-前往 [Releases](https://github.com/SamToki/Rainmeter---Sam-Toki-Rainmeter-Skin/releases/latest) 页面，下载并打开 rmskin 文件。<br>
-Rainmeter 将会自动安装皮肤与布局。<br>
-Go to the [releases](https://github.com/SamToki/Rainmeter---Sam-Toki-Rainmeter-Skin/releases/latest) page, download and open the rmskin file.<br>
-Rainmeter will automatically install the skins and layouts.
+前往 [Releases](https://github.com/SamToki/Rainmeter---Sam-Toki-Rainmeter-Skin/releases/latest) 页面，下载并打开 rmskin 文件。Rainmeter 将会自动安装皮肤与布局。<br>
+Go to the [releases](https://github.com/SamToki/Rainmeter---Sam-Toki-Rainmeter-Skin/releases/latest) page, download and open the rmskin file. Rainmeter will automatically install the skins and layouts.
 
 前往 系统托盘 >> Rainmeter >> Layouts 来切换布局。<br>
 Head for System tray >> Rainmeter >> Layouts to switch between layouts.
 
 # 版权说明 Legal Info
 
-皮肤包及其内容物遵循 CC BY-NC-SA 3.0 协议，允许任意传播，但转载必须注明出处。<br>
-仅供个人免费使用，不得商用（任何盈利行为）。<br>
-其他内容（例如此 readme 文件）保留版权。<br>
-The skin pack and its contents are released under the CC BY-NC-SA 3.0 license.<br>
-You may freely distribute them, but a reference is required when reposting.<br>
-For free personal use only. No commercial use.<br>
-Other contents such as this readme document are copyrighted.
+皮肤包及其内容物遵循 CC BY-NC-SA 3.0 协议，允许任意传播，但转载必须注明出处。仅供个人免费使用，不得商用（任何盈利行为）。其他内容（例如此 readme 文件）保留版权。<br>
+The skin pack and its contents are released under the CC BY-NC-SA 3.0 license. You may freely distribute them, but a reference is required when reposting. For free personal use only. No commercial use. Other contents such as this readme document are copyrighted.
 
 (C) 2015-2023 SAM TOKI STUDIO
