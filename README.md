@@ -44,14 +44,14 @@ Digital clocks support 30-hour format, ideal for those who stay up at midnight.
 Indicator lights in different colors, either blinking or static, help you quickly know about the status of your computer.
 
 - 蓝灯表示数值为0或无数据（例如未在运行的独立显卡）。<br>Blue light indicates that value is 0 or data unavailable (e.g. Discrete graphics card not running).
-- 绿灯表示数值状态良好（例如RAM低占用）。<br>Green light indicates that value is in good condition (e.g. RAM occupation is low).
+- 绿灯表示数值状态良好（例如 RAM 低占用）。<br>Green light indicates that value is in good condition (e.g. RAM occupation is low).
 - 黄灯表示数值较大（例如网络满负载）。<br>Yellow light indicates that value is great (e.g. Network full load).
-- 橙灯表示数值超过警戒值（例如CPU温度超过80℃）。<br>Orange light indicates that value is over caution threshold (e.g. CPU temperature over 80℃).
-- 红灯表示数值超过危险值（例如CPU温度超过90℃）。<br>Red light indicates that value is over warning threshold (e.g. CPU temperature over 90℃).
+- 橙灯表示数值超过警戒值（例如 CPU 温度超过 80℃）。<br>Orange light indicates that value is over caution threshold (e.g. CPU temperature over 80℃).
+- 红灯表示数值超过危险值（例如 CPU 温度超过 90℃）。<br>Red light indicates that value is over warning threshold (e.g. CPU temperature over 90℃).
 
 # 注意事项 Precautions
 
-内置布局适用于1920x1080分辨率与100%的DPI缩放。部分皮肤需要插件才能正常显示。<br>
+内置布局适用于 1920x1080 分辨率与 100% 的 DPI 缩放。部分皮肤需要插件才能正常显示。<br>
 Layouts are designed to fit 1920x1080 resolution with 100% DPI scale. Some skins require plugins to function.
 
 其他注意事项请看下图。<br>
