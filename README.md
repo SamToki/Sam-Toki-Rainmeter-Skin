@@ -1,7 +1,7 @@
 # 简介 Description
 
-这是一个原创极简风格「雨滴桌面」皮肤包。含桌面部件与悬浮部件，内置12种布局。还有支持30小时制的数字时钟。<br>
-This is an original Rainmeter skin pack. It is minimalistic styled with both desktop widgets and floating widgets, and 12 built-in layouts. Digital clocks support 30-hour format.
+这是一个原创极简风格「雨滴桌面」皮肤包。含桌面部件与悬浮部件，内置9种布局。还有支持30小时制的数字时钟。<br>
+This is an original Rainmeter skin pack. It is minimalistic styled with both desktop widgets and floating widgets, and 9 built-in layouts. Digital clocks support 30-hour format.
 
 # 预览 Preview
 
@@ -26,8 +26,8 @@ Floating widgets available in both analog style and digital style. Capable for c
 
 ## 内置布局 Built-in Layouts
 
-内置12种布局，用于在各种情景下快速切换。<br>
-12 built-in layouts available for quick switching for various scenarios.
+内置9种布局，用于在各种情景下快速切换。<br>
+9 built-in layouts available for quick switching for various scenarios.
 
 ## 30小时制 30-Hour Format
 
