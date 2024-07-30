@@ -1,5 +1,5 @@
 @echo off
-title Processing...
+title Restart explorer
 color 0A
 echo.
 echo Restarting explorer.exe
@@ -7,7 +7,8 @@ echo.
 :: pause >nul
 @echo on
 
-taskkill /f /im explorer.exe & start explorer.exe
+taskkill /f /im explorer.exe
+start explorer.exe
 
 @echo off
 echo.

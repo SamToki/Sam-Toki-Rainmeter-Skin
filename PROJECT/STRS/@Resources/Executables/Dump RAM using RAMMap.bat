@@ -1,5 +1,5 @@
 @echo off
-title Processing...
+title Dump RAM using RAMMap
 color 0A
 echo.
 echo Dumping RAM using RAMMap...
@@ -7,7 +7,7 @@ echo.
 :: pause >nul
 @echo on
 
-cd /D D:\Program Files\Sysinternals\
+cd /D C:\Program Files\Sysinternals\
 Rammap -Ew
 :: Rammap -Es
 Rammap -Em
