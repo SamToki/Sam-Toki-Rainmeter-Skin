@@ -10,10 +10,11 @@ This is an original Rainmeter skin pack. It is minimalistic styled with both des
 桌面部件主要用于桌面背景装饰。<br>
 Desktop widgets are mainly for desktop background decoration.
 
-可自由编辑「DesktopStaticPowerControl」中的标题文字来展示您的个性。<br>
-You can freely edit the title text in "DesktopStaticPowerControl" for personalization.
+可编辑「Desktop Static Power Control」（右上角）中的自定义文字来展示您的个性。<br>
+You can edit the custom text in "Desktop Static Power Control" (top right) for personalization.
 
 ![Desktop Layout](/PREVIEW/Desktop%20Layout.png)
+(Illustrations from: Pixiv ID [107747248](https://www.pixiv.net/en/artworks/107747248))
 
 ## 悬浮部件 Floating Widgets
 
