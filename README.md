@@ -14,7 +14,7 @@ Desktop widgets are mainly for desktop background decoration.
 You can edit the custom text in "Desktop Static Shortcuts" (top right) for personalization.
 
 ![Desktop Layout](/PREVIEW/Desktop%20Layout.png)
-(Illustrations from: Pixiv ID [107747248](https://www.pixiv.net/en/artworks/107747248))
+(Illustration credit: Pixiv ID [107747248](https://www.pixiv.net/en/artworks/107747248))
 
 ## 悬浮部件 Floating Widgets
 
