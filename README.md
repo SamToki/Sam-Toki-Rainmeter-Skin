@@ -54,7 +54,7 @@ Indicator lights in different colors, either blinking or static, help you quickl
 内置布局适用于 100% 的 DPI 缩放。部分皮肤需要插件才能正常显示。<br>
 Layouts are designed to fit 100% DPI scale. Some skins require plugins to function.
 
-- [HWiNFO](https://docs.rainmeter.net/tips/hwinfo) 用于显卡负载、CPU 温度、显卡温度、内存负载以及虚拟内存负载监测。<br>[HWiNFO](https://docs.rainmeter.net/tips/hwinfo) is required for GPU usage, CPU temperature, GPU temperature, RAM usage and VRAM usage monitoring.
+- [HWiNFO](https://docs.rainmeter.net/tips/hwinfo) 用于 CPU 负载、显卡负载、CPU 温度、显卡温度、内存负载以及虚拟内存负载监测。<br>[HWiNFO](https://docs.rainmeter.net/tips/hwinfo) is required for CPU usage, GPU usage, CPU temperature, GPU temperature, RAM usage and VRAM usage monitoring.
 - [RAMMap](https://learn.microsoft.com/en-us/sysinternals/downloads/rammap) 用于 RAM 倾倒功能。<br>[RAMMap](https://learn.microsoft.com/en-us/sysinternals/downloads/rammap) is required for RAM dump feature.
 
 # 使用方法 How to Use
