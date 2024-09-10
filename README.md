@@ -31,12 +31,14 @@ Several built-in layouts available for quick switching for various scenarios.
 
 ## 30小时制 30-Hour Format
 
-数字时钟支持30小时制，尤其适合熬夜党（修仙党），例如深夜追番。<br>
-Digital clocks support 30-hour format, ideal for those who stay up at midnight.
+**※ 已废除 Removed**
 
-[什么是30小时制？](https://zh.moegirl.org.cn/30%E5%B0%8F%E6%97%B6%E5%88%B6)<br>
-[What is 30-hour format?](https://en.wikipedia.org/wiki/Date_and_time_notation_in_Japan)<br>
-[在电脑上使用30小时制时钟（Rainmeter）](https://zhuanlan.zhihu.com/p/319783535)
+~~数字时钟支持30小时制，尤其适合熬夜党（修仙党），例如深夜追番。~~<br>
+~~Digital clocks support 30-hour format, ideal for those who stay up at midnight.~~
+
+~~[什么是30小时制？](https://zh.moegirl.org.cn/30%E5%B0%8F%E6%97%B6%E5%88%B6)~~<br>
+~~[What is 30-hour format?](https://en.wikipedia.org/wiki/Date_and_time_notation_in_Japan)~~<br>
+~~[在电脑上使用30小时制时钟（Rainmeter）](https://zhuanlan.zhihu.com/p/319783535)~~
 
 ## 指示灯 Indicator Lights
 
