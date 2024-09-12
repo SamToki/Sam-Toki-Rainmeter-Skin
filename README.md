@@ -64,8 +64,11 @@ Layouts are designed to fit 100% DPI scale. Some skins require plugins to functi
 从官网下载并安装 [Rainmeter](https://www.rainmeter.net)。<br>
 Download and install [Rainmeter](https://www.rainmeter.net) from its official website.
 
-前往 [Releases](https://github.com/SamToki/Sam-Toki-Rainmeter-Skin/releases/latest) 页面，下载并打开 rmskin 文件。Rainmeter 将会自动安装皮肤与布局。<br>
-Go to the [releases](https://github.com/SamToki/Sam-Toki-Rainmeter-Skin/releases/latest) page, download and open the rmskin file. Rainmeter will automatically install the skins and layouts.
+前往 [Releases](https://github.com/SamToki/Sam-Toki-Rainmeter-Skin/releases/latest) 页面，下载 rmskin 文件与 ttf 字体文件。<br>
+Go to the [releases](https://github.com/SamToki/Sam-Toki-Rainmeter-Skin/releases/latest) page, download the rmskin file and TTF font files.
+
+打开 rmskin 文件。Rainmeter 将会自动安装皮肤与布局。若字体显示不正常，请先点击系统托盘 → Rainmeter → Refresh all。若不起作用，再安装字体文件，然后重启 Rainmeter。<br>
+Open the rmskin file. Rainmeter will automatically install the skins and layouts. If fonts don't display correctly, click system tray > Rainmeter > Refresh all. If this doesn't work, then install the fonts, and restart Rainmeter.
 
 前往系统托盘 → Rainmeter → Layouts 来切换布局。<br>
 Head for system tray > Rainmeter > Layouts to switch between layouts.
