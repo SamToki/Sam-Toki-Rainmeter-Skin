@@ -48,7 +48,7 @@ Indicator lights in different colors, either blinking or static, help you quickl
 - 蓝灯表示数值为0或无数据（例如未在运行的独立显卡）。<br>Blue light indicates that value is 0 or data unavailable (e.g. Discrete graphics card not running).
 - 绿灯表示数值状态良好（例如内存低负载）。<br>Green light indicates that value is in good condition (e.g. RAM usage is low).
 - 黄灯表示数值较大（例如网络满负载）。<br>Yellow light indicates that value is great (e.g. Network full load).
-- 橙灯表示数值超过警戒值（例如 CPU 温度超过 80℃）。<br>Orange light indicates that value is over caution threshold (e.g. CPU temperature over 80℃).
+- 橙灯表示数值超过警戒值（例如 CPU 温度超过 85℃）。<br>Orange light indicates that value is over caution threshold (e.g. CPU temperature over 85℃).
 - 红灯表示数值超过危险值（例如 CPU 温度超过 90℃）。<br>Red light indicates that value is over warning threshold (e.g. CPU temperature over 90℃).
 
 # 注意事项 Precautions
