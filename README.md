@@ -31,7 +31,7 @@ Several built-in layouts available for quick switching for various scenarios.
 
 ## 30小时制 30-Hour Format
 
-**※ 已废除 Removed**
+※ 已废除 Removed
 
 ~~数字时钟支持30小时制，尤其适合熬夜党（修仙党），例如深夜追番。~~<br>
 ~~Digital clocks support 30-hour format, ideal for those who stay up at midnight.~~
@@ -45,19 +45,26 @@ Several built-in layouts available for quick switching for various scenarios.
 各种颜色的或闪烁或常亮的指示灯助您快速了解电脑的状态。<br>
 Indicator lights in different colors, either blinking or static, help you quickly know about the status of your computer.
 
-- 蓝灯表示数值为0或无数据（例如未在运行的独立显卡）。<br>Blue light indicates that value is 0 or data unavailable (e.g. Discrete graphics card not running).
-- 绿灯表示数值状态正常（例如 CPU 低负载）。<br>Green light indicates that value is in normal condition (e.g. CPU usage is low).
-- 黄灯表示数值较大（例如网络满负载）。<br>Yellow light indicates that value is great (e.g. Network full load).
-- 橙灯表示数值超过警戒值（例如 CPU 温度超过 85℃）。<br>Orange light indicates that value is over caution threshold (e.g. CPU temperature over 85℃).
-- 红灯表示数值超过危险值（例如 CPU 温度超过 90℃）。<br>Red light indicates that value is over warning threshold (e.g. CPU temperature over 90℃).
+- 蓝灯表示数值为0或无数据（例如未在运行的独立显卡）。<br>
+Blue light indicates that value is 0 or data unavailable (e.g. Discrete graphics card not running).
+- 绿灯表示数值状态正常（例如 CPU 低负载）。<br>
+Green light indicates that value is in normal condition (e.g. CPU usage is low).
+- 黄灯表示数值较大（例如网络满负载）。<br>
+Yellow light indicates that value is great (e.g. Network full load).
+- 橙灯表示数值超过警戒值（例如 CPU 温度超过 85℃）。<br>
+Orange light indicates that value is over caution threshold (e.g. CPU temperature over 85℃).
+- 红灯表示数值超过危险值（例如 CPU 温度超过 90℃）。<br>
+Red light indicates that value is over warning threshold (e.g. CPU temperature over 90℃).
 
 # 注意事项 Precautions
 
 内置布局适用于 100% 的 DPI 缩放。部分皮肤需要插件才能正常显示。<br>
 Layouts are designed to fit 100% DPI scale. Some skins require plugins to function.
 
-- [HWiNFO](https://docs.rainmeter.net/tips/hwinfo) 用于 CPU 负载、显卡负载、CPU 温度、显卡温度、内存负载以及虚拟内存负载监测。<br>[HWiNFO](https://docs.rainmeter.net/tips/hwinfo) is required for CPU usage, GPU usage, CPU temperature, GPU temperature, RAM usage and VRAM usage monitoring.
-- [RAMMap](https://learn.microsoft.com/en-us/sysinternals/downloads/rammap) 用于 RAM 倾倒功能。<br>[RAMMap](https://learn.microsoft.com/en-us/sysinternals/downloads/rammap) is required for RAM dump feature.
+- [HWiNFO](https://docs.rainmeter.net/tips/hwinfo) 用于 CPU 负载、显卡负载、CPU 温度、显卡温度、内存负载以及虚拟内存负载监测。<br>
+[HWiNFO](https://docs.rainmeter.net/tips/hwinfo) is required for CPU usage, GPU usage, CPU temperature, GPU temperature, RAM usage and VRAM usage monitoring.
+- [RAMMap](https://learn.microsoft.com/en-us/sysinternals/downloads/rammap) 用于 RAM 倾倒功能。<br>
+[RAMMap](https://learn.microsoft.com/en-us/sysinternals/downloads/rammap) is required for RAM dump feature.
 
 # 使用方法 How to Use
 
