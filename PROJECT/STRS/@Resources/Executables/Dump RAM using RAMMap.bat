@@ -4,7 +4,6 @@ color 0A
 echo.
 echo Dumping RAM using RAMMap...
 echo.
-:: pause >nul
 @echo on
 
 cd /D C:\Program Files\Sysinternals\

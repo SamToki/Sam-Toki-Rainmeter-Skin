@@ -4,7 +4,6 @@ color 0A
 echo.
 echo Restarting explorer.exe
 echo.
-:: pause >nul
 @echo on
 
 taskkill /f /im explorer.exe
