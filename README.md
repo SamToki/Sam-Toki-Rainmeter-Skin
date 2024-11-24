@@ -3,6 +3,8 @@
 这是一个原创极简风格「雨滴桌面」皮肤包。含桌面部件与悬浮部件，内置多种布局。<br>
 This is an original Rainmeter skin pack. It is minimalistic styled with both desktop widgets and floating widgets, and several built-in layouts.
 
+![封面 Cover](/PREVIEW/封面%20Cover.png)
+
 # 功能特色 ／ Features
 
 ## 桌面部件 ／ Desktop Widgets
@@ -14,7 +16,7 @@ Desktop widgets are mainly for desktop background decoration.
 You can edit the custom text in "Desktop Static Shortcuts" (top right) for personalization.
 
 ![Desktop Layout](/PREVIEW/Desktop%20Layout.png)
-(Illustration credit: Pixiv ID [107747248](https://pixiv.net/en/artworks/107747248) by [@Ting](https://pixiv.net/en/users/588419))
+(Illustration credit: Pixiv ID [71631884](https://pixiv.net/en/artworks/71631884) by [@Ashima](https://pixiv.net/en/users/2642047))
 
 ## 悬浮部件 ／ Floating Widgets
 
