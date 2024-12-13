@@ -4,6 +4,7 @@
 This is an original Rainmeter skin pack. It is minimalistic styled with both desktop widgets and floating widgets, and several built-in layouts.
 
 ![封面 Cover](/PREVIEW/封面%20Cover.png)
+(Illustration credit: Pixiv ID [71631884](https://pixiv.net/en/artworks/71631884) by [@Ashima](https://pixiv.net/en/users/2642047))
 
 # 功能特色 Features
 
@@ -16,7 +17,6 @@ Desktop widgets are mainly for desktop background decoration.
 You can edit the custom text in "Desktop Static Shortcuts" (top right) for personalization.
 
 ![Desktop Layout](/PREVIEW/Desktop%20Layout.jpg)
-(Illustration credit: Pixiv ID [71631884](https://pixiv.net/en/artworks/71631884) by [@Ashima](https://pixiv.net/en/users/2642047))
 
 ## 悬浮部件 Floating Widgets
 
