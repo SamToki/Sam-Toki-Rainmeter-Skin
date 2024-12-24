@@ -84,7 +84,7 @@ Head for system tray > Rainmeter > Layouts to switch between layouts.
 
 # 版权说明 Copyright Info
 
-皮肤包及其内容物遵循 CC BY-NC-SA 3.0 协议，允许任意传播，但转载必须注明出处。仅供个人免费使用，不得商用（任何盈利行为）。其他内容（例如此 readme 文件）保留版权。<br>
-The skin pack and its contents are released under the CC BY-NC-SA 3.0 license. You may freely distribute them, but a reference is required when reposting. For free personal use only. No commercial use. Other contents such as this readme document are copyrighted.
+皮肤包及其内容物遵循 [GNU GPL v3 软件开源协议](https://www.gnu.org/licenses/gpl-3.0.en.html)。其他内容（例如此 readme 文件）保留版权。<br>
+The skin pack and its contents are released under the [GNU GPL v3 open source license](https://www.gnu.org/licenses/gpl-3.0.en.html). Other contents such as this readme document are copyrighted.
 
 © 2023 SAM TOKI STUDIO
