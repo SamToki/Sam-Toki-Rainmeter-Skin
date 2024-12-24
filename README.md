@@ -68,7 +68,7 @@ Layouts are designed to fit 100% DPI scale. Some skins require plugins to functi
 - [RAMMap](https://learn.microsoft.com/en-us/sysinternals/downloads/rammap) 用于 RAM 倾倒功能。<br>
 [RAMMap](https://learn.microsoft.com/en-us/sysinternals/downloads/rammap) is required for RAM dump feature.
 
-# 使用方法 How to Use
+# 教程 Tutorial
 
 从官网下载并安装 [Rainmeter](https://www.rainmeter.net)。<br>
 Download and install [Rainmeter](https://www.rainmeter.net) from its official website.
