@@ -58,7 +58,7 @@ Orange light indicates that value is over caution threshold (e.g. CPU temperatur
 - 红灯表示数值超过危险值（例如 CPU 温度超过 90℃）。<br>
 Red light indicates that value is over warning threshold (e.g. CPU temperature over 90℃).
 
-# 注意事项 Precautions
+# 使用前须知 Read Before Use
 
 内置布局适用于 100% 的 DPI 缩放。部分皮肤需要插件才能正常显示。<br>
 Layouts are designed to fit 100% DPI scale. Some skins require plugins to function.
