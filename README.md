@@ -60,8 +60,8 @@ Red light indicates that value is over warning threshold (e.g. CPU temperature o
 
 # 使用前须知 Read Before Use
 
-内置布局适用于 100% 的 DPI 缩放。部分皮肤需要插件才能正常显示。<br>
-Layouts are designed to fit 100% DPI scale. Some skins require plugins to function.
+部分皮肤需要插件才能正常显示。<br>
+Some skins require plugins to function.
 
 - [HWiNFO](https://docs.rainmeter.net/tips/hwinfo) 用于 CPU 负载、显卡负载、CPU 温度、显卡温度、内存负载以及虚拟内存负载监测。<br>
 [HWiNFO](https://docs.rainmeter.net/tips/hwinfo) is required for CPU usage, GPU usage, CPU temperature, GPU temperature, RAM usage and VRAM usage monitoring.
