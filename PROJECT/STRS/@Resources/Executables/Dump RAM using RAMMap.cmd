@@ -5,7 +5,7 @@ color 0A
 echo.
 echo Dumping RAM using RAMMap...
 @echo on
-cd /D "C:\Program Files\Sysinternals\"
+cd /d "C:\Program Files\Sysinternals\"
 Rammap -Ew
 :: Rammap -Es
 Rammap -Em
