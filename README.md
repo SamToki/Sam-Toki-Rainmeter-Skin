@@ -15,15 +15,15 @@ Desktop widgets are mainly for desktop background decoration.
 可编辑「Desktop Static Shortcuts」（右上角）中的自定义文字来展示您的个性。<br>
 You can edit the custom text in "Desktop Static Shortcuts" (top right) for personalization.
 
-![桌面布局 Desktop Layout](/PREVIEW/桌面布局%20Desktop%20Layout.jpg)
+![桌面布局 Desktop Layout](/PREVIEW/桌面布局%20Desktop%20Layout.png)
 
 ## 悬浮部件 Floating Widgets
 
 悬浮部件含指针式与数字式两种风格。具备时钟查看、硬件监控、网速监控、音频可视化等功能。<br>
 Floating widgets available in both analog style and digital style. Capable for clock monitoring, hardware monitoring, network traffic monitoring, audio visualization and more.
 
-![悬浮指针式布局 Float Analog Layout](/PREVIEW/悬浮指针式布局%20Float%20Analog%20Layout.jpg)
-![悬浮数字式布局 Float Digital Layout](/PREVIEW/悬浮数字式布局%20Float%20Digital%20Layout.jpg)
+![悬浮指针式布局 Float Analog Layout](/PREVIEW/悬浮指针式布局%20Float%20Analog%20Layout.png)
+![悬浮数字式布局 Float Digital Layout](/PREVIEW/悬浮数字式布局%20Float%20Digital%20Layout.png)
 
 ## 内置布局 Built-in Layouts
 
