@@ -81,7 +81,7 @@ Open the rmskin file. Follow the wizard to install the skins and layouts. If fon
 可在[说明文档](/HELP/Sam%20Toki%20的%20Rainmeter%20皮肤说明文档.pdf)查看插件的部署方法，以及详细教程。<br>
 You can view the plugin deployment and the detailed tutorial in the [documentation](/HELP/Sam%20Toki%20的%20Rainmeter%20皮肤说明文档.pdf) (in simplified Chinese).
 
-前往系统托盘 → Rainmeter → Layouts 来切换布局。<br>
+前往系统托盘 → Rainmeter → 主题 来切换布局。<br>
 Head for system tray > Rainmeter > Layouts to switch between layouts.
 
 # 版权说明 Copyright Info
