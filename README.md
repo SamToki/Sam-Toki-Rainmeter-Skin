@@ -5,69 +5,13 @@ This is an original [Rainmeter](https://en.wikipedia.org/wiki/Rainmeter) skin pa
 
 ![封面 Cover](/PREVIEW/封面%20Cover.png)
 
-# 功能与特色 Features
-
-## 桌面部件 Desktop Widgets
-
-桌面部件主要用于桌面背景装饰。<br>
-Desktop widgets are mainly for desktop background decoration.
-
-可编辑「Desktop Static Shortcuts」（右上角）中的自定义文字来展示您的个性。<br>
-You can edit the custom text in "Desktop Static Shortcuts" (top right) for personalization.
+# 预览 Preview
 
 ![桌面布局 Desktop Layout](/PREVIEW/桌面布局%20Desktop%20Layout.png)
-
-## 悬浮部件 Floating Widgets
-
-悬浮部件含指针式与数字式两种风格。具备时钟查看、硬件监控、网速监控、音频可视化等功能。<br>
-Floating widgets available in both analog style and digital style. Capable for clock monitoring, hardware monitoring, network traffic monitoring, audio visualization and more.
-
 ![悬浮指针式布局 Float Analog Layout](/PREVIEW/悬浮指针式布局%20Float%20Analog%20Layout.png)
 ![悬浮数字式布局 Float Digital Layout](/PREVIEW/悬浮数字式布局%20Float%20Digital%20Layout.png)
 
-## 内置布局 Built-in Layouts
-
-内置多种布局，用于在各种情景下快速切换。<br>
-Several built-in layouts available for quick switching for various scenarios.
-
-## 30小时制 30-Hour Format
-
-※ 已废除 Removed
-
-~~数字时钟支持30小时制，尤其适合熬夜党（修仙党），例如深夜追番。~~<br>
-~~Digital clocks support 30-hour format, ideal for those who stay up at midnight.~~
-
-~~[什么是30小时制？](https://zh.moegirl.org.cn/30%E5%B0%8F%E6%97%B6%E5%88%B6)~~<br>
-~~[What is 30-hour format?](https://en.wikipedia.org/wiki/Date_and_time_notation_in_Japan)~~<br>
-~~[在电脑上使用30小时制时钟（Rainmeter）](https://zhuanlan.zhihu.com/p/319783535)~~
-
-## 指示灯 Indicator Lights
-
-各种颜色的或闪烁或常亮的指示灯助您快速了解电脑的状态。<br>
-Indicator lights in different colors, either blinking or static, help you quickly know about the status of your computer.
-
-- 蓝灯表示数值为0或无数据。例如未在运行的独立显卡。<br>
-Blue light indicates that value is 0 or data unavailable. (e.g. Discrete graphics card not running.)
-- 绿灯表示数值状态正常。例如 CPU 低负载。<br>
-Green light indicates that value is in normal condition. (e.g. CPU usage is low.)
-- 黄灯表示数值较大。例如网络满负载。<br>
-Yellow light indicates that value is great. (e.g. Network full load.)
-- 橙灯表示数值超过警戒值。例如 CPU 温度超过 85℃。<br>
-Orange light indicates that value is over caution threshold. (e.g. CPU temperature over 85℃.)
-- 红灯表示数值超过危险值。例如 CPU 温度超过 90℃。<br>
-Red light indicates that value is over warning threshold. (e.g. CPU temperature over 90℃.)
-
-# 使用前须知 Read Before Use
-
-部分皮肤需要插件才能正常显示。<br>
-Some skins require plugins to function.
-
-- [HWiNFO](https://docs.rainmeter.net/tips/hwinfo) 用于 CPU 负载、显卡负载、CPU 温度、显卡温度、内存负载以及虚拟内存负载监测。<br>
-[HWiNFO](https://docs.rainmeter.net/tips/hwinfo) is required for CPU usage, GPU usage, CPU temperature, GPU temperature, RAM usage and VRAM usage monitoring.
-- [RAMMap](https://learn.microsoft.com/en-us/sysinternals/downloads/rammap) 用于 RAM 倾倒功能。<br>
-[RAMMap](https://learn.microsoft.com/en-us/sysinternals/downloads/rammap) is required for RAM dump feature.
-
-# 教程 Tutorial
+# 使用方法 How to Use
 
 从官网下载，安装并运行 [Rainmeter](https://www.rainmeter.net)。<br>
 Download, install and run [Rainmeter](https://www.rainmeter.net) from its official website.
@@ -78,11 +22,12 @@ Go to the [releases](https://github.com/SamToki/Sam-Toki-Rainmeter-Skin/releases
 打开 rmskin 文件，按照指引安装皮肤与布局。若字体显示不正常，请先点击系统托盘 → Rainmeter → Refresh all。若不起作用，再安装字体文件，然后重启 Rainmeter。<br>
 Open the rmskin file. Follow the wizard to install the skins and layouts. If fonts don't display correctly, click system tray > Rainmeter > Refresh all. If this doesn't work, then install the fonts, and restart Rainmeter.
 
-可在[说明文档](/HELP/Sam%20Toki%20的%20Rainmeter%20皮肤说明文档.pdf)查看插件的部署方法，以及详细教程。<br>
-You can view the plugin deployment and the detailed tutorial in the [documentation](/HELP/Sam%20Toki%20的%20Rainmeter%20皮肤说明文档.pdf) (in simplified Chinese).
-
 前往系统托盘 → Rainmeter → 主题 来切换布局。<br>
 Head for system tray > Rainmeter > Layouts to switch between layouts.
+
+# 了解更多 Learn More
+
+[说明文档](/HELP/Sam%20Toki%20的%20Rainmeter%20皮肤说明文档.pdf)
 
 # 版权说明 Copyright Info
 
