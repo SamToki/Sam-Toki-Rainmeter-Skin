@@ -1,12 +1,12 @@
+chcp 65001
 @echo off
 title Restart explorer
 color 0A
 
 echo.
-echo Restarting explorer.exe
-@echo on
+echo ● 正在重启 explorer.exe
+echo    Restarting explorer.exe
 taskkill /f /im explorer.exe
 start explorer.exe
 
-@echo off
 timeout /t 1 >nul
