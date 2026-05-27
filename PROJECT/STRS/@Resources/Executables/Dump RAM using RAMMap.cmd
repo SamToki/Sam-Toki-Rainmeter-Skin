@@ -1,5 +1,5 @@
-chcp 65001
 @echo off
+chcp 65001 >nul
 title Dump RAM using RAMMap
 color 0A
 
