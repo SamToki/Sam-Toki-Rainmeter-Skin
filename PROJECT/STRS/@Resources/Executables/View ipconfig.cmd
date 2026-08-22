@@ -3,7 +3,7 @@ chcp 65001 >nul
 title ipconfig
 color 0A
 
-ipconfig
+ipconfig /all
 
 echo.
 echo ▶ 按任意键关闭
